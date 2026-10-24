@@ -1,0 +1,20 @@
+# yomates-firebase-skill
+
+요메이트(Yomates) 팀원이 내 컴퓨터에 Firebase를 세팅해 주는 스킬이에요. 다 끝나면 내 Firebase 프로젝트, `https://내프로젝트.web.app` 첫 화면, 앱이 쓸 Firestore 데이터베이스가 생겨요.
+
+## 쓰는 법
+
+1. 요메이트 팀원에게 이렇게 보내요.
+   > https://github.com/from5302-lab/yomates-firebase-skill 의 SKILL.md 읽고 'firebase-세팅' 스킬로 저장해 줘. 그다음 그대로 세팅해 줘.
+2. 직접 하실 일은 두 가지예요.
+   - 터미널과 브라우저에서 구글 로그인
+   - Functions가 필요할 때만, Blaze 요금제 카드 등록
+3. 나머지는 팀원이 해요. 도구 설치, 프로젝트 만들기, 웹 앱 등록, 데이터베이스(서울), 보안 규칙, 첫 배포까지예요.
+
+## 원칙
+
+- 데이터베이스는 '전부 막기' 규칙으로 시작해요. 앱을 만들 때 필요한 것만 열어요.
+- 무료 요금제로 시작해요. 유료(Blaze)는 필요할 때 확인받고 바꿔요.
+- 이미 있는 다른 프로젝트에는 배포하지 않아요.
+
+같이 쓰면 좋은 스킬: [yomates-threads-skill](https://github.com/from5302-lab/yomates-threads-skill)

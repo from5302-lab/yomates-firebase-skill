@@ -1,5 +1,9 @@
 # yomates-firebase-skill
 
+<!-- yomates-install:readme -->
+> **먼저 요메이트(Yomates)가 필요해요.** 이 스킬은 요메이트 앱 안에서 돌아가요. 아직 설치하지 않았다면 [YOMATES-INSTALL.md](YOMATES-INSTALL.md) 순서대로 설치한 뒤 돌아오세요. 공식 다운로드는 https://yomates.ai 하나뿐이에요.
+<!-- /yomates-install:readme -->
+
 요메이트(Yomates) 팀원이 내 컴퓨터에 Firebase를 세팅해 주는 스킬이에요. 다 끝나면 내 Firebase 프로젝트, `https://내프로젝트.web.app` 첫 화면, 앱이 쓸 Firestore 데이터베이스가 생겨요.
 
 ## 쓰는 법
